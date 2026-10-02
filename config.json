@@ -1,0 +1,23 @@
+{
+    "server_link": "https://discord.gg/yourserver",
+
+    "whitelist": [
+        "steam:110000100000000",
+        "discord:123456789012345678",
+        "fivem:123456"
+    ],
+
+    "detections": {
+        "freecam": true,
+        "noclip": true,
+        "invisible": true,
+        "aimbot": true,
+        "silent_aim": true,
+        "stop_resources": true,
+        "godmode": true,
+        "superjump": true,
+        "rapid_fire": true,
+        "infinite_ammo": true,
+        "explosive_ammo": true
+    }
+}
